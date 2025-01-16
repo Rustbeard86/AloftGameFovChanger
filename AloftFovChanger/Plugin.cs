@@ -3,8 +3,8 @@ using BepInEx.Configuration;
 using BepInEx.Logging;
 using HarmonyLib;
 using UnityEngine;
-using AloftCamera; // Assuming this is the correct namespace for accessing FovManager
-using Level_Manager; // Assuming this is the correct namespace for accessing GameplayState
+using AloftCamera;
+using Level_Manager;
 using System.Reflection;
 using System.Collections;
 using UnityEngine.InputSystem;
