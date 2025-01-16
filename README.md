@@ -135,3 +135,8 @@ ToggleOSDKey = f10
 # Default value: false
 AlwaysDisplayOSD = false
 ```
+
+## Notes for building the project.
+Visual Studio 2022 was used.
+bepinex project templates used.
+Code needs Aloft.dll as an assembly reference.
