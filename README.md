@@ -1,7 +1,7 @@
 # AloftGameFovChanger
 ## This project is not in any way associated with the developers of Aloft game.
 This plugin may have a negative affect on your game, game save or even PC.
-I've done my very best to make sure issues don't arise, but I and the developers and publishing company for Aloft game will not be help responsible
+I've done my very best to make sure issues don't arise, but I and the developers and publishing company for Aloft game shall not be held responsible
 if issues arise.
 
 ## Notes for users new to modding.
