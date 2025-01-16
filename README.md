@@ -18,7 +18,7 @@ In the config file located "\BepInEx\config\BepInEx.cfg" change (Enabled = true)
 # Default value: true
 Enabled = true
 ```
-## Notes on bugs / issues and current limitations
+## Notes on bugs / issues and current limitations.
 
 a.) As of now I have limited the FOV changer to between 60 and 90 FOV inclusive. (Things start looking very strage and unpleasant beyond these.)
 
