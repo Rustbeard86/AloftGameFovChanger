@@ -47,7 +47,6 @@ Please ask your questions here by posting an issue or contacting me on steam.
 3.) Once you have copied all the files and folders into your game folder, start the game once and let it load all the way to the screen where you can exit, and then exit the game.
 
 4.) Downlaod the latest release of the plugin from https://github.com/Rustbeard86/AloftGameFovChanger/releases/latest
-    Extract the zip archive with the plugin.
     Copy this plugin and paste it into "\BepInEx\plugins\" where your game is installed.
 
 5. Once the game loads again, a new config file will be created with options you can change in "\BepInEx\config\AloftFovChanger.cfg" (This file can be edited with notepad or any other text editor.)
